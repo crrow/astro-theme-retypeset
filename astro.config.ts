@@ -33,7 +33,7 @@ const imageConfig = imageHostURL
 
 export default defineConfig({
   site: url,
-  base: '/',
+  base: '/astro-theme-retypeset',
   trailingSlash: 'always',
   prefetch: {
     prefetchAll: true,
