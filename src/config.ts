@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
     // author name
     author: 'crrow',
     // site url
-    url: 'https://crrow.github.io',
+    url: 'https://crrow.github.io/astro-theme-retypeset',
     // favicon url
     // recommended formats: svg, png or ico
     favicon: '/icon/favicon.svg', // or https://example.com/favicon.svg
